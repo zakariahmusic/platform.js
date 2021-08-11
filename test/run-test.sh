@@ -7,4 +7,6 @@ for cmd in rhino "rhino -require" ringo phantomjs node; do
 done
 
 echo "Testing in a browser..."
+
 open index.html
+
